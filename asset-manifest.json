@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/focalleditor/static/css/main.073c9b0a.css",
-    "main.js": "/focalleditor/static/js/main.8ccd9bcd.js",
+    "main.js": "/focalleditor/static/js/main.0fbd3ba7.js",
     "static/js/787.28cb0dcd.chunk.js": "/focalleditor/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/focalleditor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/focalleditor/index.html",
     "main.073c9b0a.css.map": "/focalleditor/static/css/main.073c9b0a.css.map",
-    "main.8ccd9bcd.js.map": "/focalleditor/static/js/main.8ccd9bcd.js.map",
+    "main.0fbd3ba7.js.map": "/focalleditor/static/js/main.0fbd3ba7.js.map",
     "787.28cb0dcd.chunk.js.map": "/focalleditor/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8ccd9bcd.js"
+    "static/js/main.0fbd3ba7.js"
   ]
 }
