@@ -5,6 +5,12 @@ import { ReactDiagram } from 'gojs-react';
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * The source code of this example can be found at this link
+ * https://gojs.net/latest/intro/react.html
+ */
+
+
 function initDiagram() {
   const $ = go.GraphObject.make;
   // set your license key here before creating the diagram: go.Diagram.licenseKey = "...";
